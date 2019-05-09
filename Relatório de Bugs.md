@@ -8,3 +8,4 @@
 ## Feedback final (sobre acerto de questões) rápido demais, difícil de ler
 ## Botão de voltar (tela tutorial) com mal funcionamento 
 ## Botões clicáveis somente nos contornos
+## Feedback final (sobre acerto de questões) Comentários não condizentes com acertos
