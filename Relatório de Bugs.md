@@ -11,3 +11,5 @@
 ## Feedback final (sobre acerto de questões) Comentários não condizentes com acertos - resolvido
 ## Quando mais questões foram adicionadas os feedbacks não estão condizentes com o número de acertos - resolvido
 ## Quando mais questões foram adicionadas não são exibidas todas as questões - resolvido
+## Problemas nos feedbacks de cada questão - resolvido
+## Tempo dos feedbacks - resolvido

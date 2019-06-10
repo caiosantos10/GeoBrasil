@@ -1,0 +1,32 @@
+1- Sudeste
+2- Norte
+3- Tocantins
+4- Maranhão
+5- 26
+6- Rio Grande do Sul
+7- João Pessoa
+8- Rio Branco
+9- Campo Grande
+10- Manaus
+11- Aracajú
+12- Centro-Oeste
+13- São Paulo
+14- Amazonas
+15- Sergipe
+16- Belo Horizonte
+17- Pernambuco
+18- Goiás
+19- Rio de Janeiro
+20- Sul
+21- Sul
+22- Semiárido
+23- Norte
+24- Tropical
+25- Depressão
+26- Planície
+27- Planalto
+28- Amazonas
+29- Semiárido
+30- Manguezal
+31- Mata de Araucária
+32- Pantanal
