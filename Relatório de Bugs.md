@@ -13,3 +13,5 @@
 ## Quando mais questões foram adicionadas não são exibidas todas as questões - resolvido
 ## Problemas nos feedbacks de cada questão - resolvido
 ## Tempo dos feedbacks - resolvido
+## Feedbacks não estão aparecendo na fase 2 - 
+## Sprite continua na tela ao reiniciar jogo - 
